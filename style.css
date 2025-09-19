@@ -45,12 +45,12 @@ nav a {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 4rem 2rem;
+  padding: 1rem 1rem;
   background: #e3f2fd;
 }
 
 .hero img {
-  width: 280px;
+  width: 250px;
   border-radius: 50%;
 }
 
